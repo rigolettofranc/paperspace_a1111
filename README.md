@@ -1,4 +1,6 @@
 # simple_a1111_paperspace
+**More details can be found on this Reddit [post](https://www.reddit.com/r/StableDiffusion/comments/12tp9nd/simple_paperspace_notebook/).**
+
 Easy jupiter notebook to get Automatic1111 working on the paperspace environment
 
 Instructions:
